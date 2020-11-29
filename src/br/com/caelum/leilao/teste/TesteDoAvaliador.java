@@ -7,7 +7,7 @@ import br.com.caelum.leilao.dominio.Avaliador;
 
 class TesteDoAvaliador {
     @Test
-    public static void main() {
+    public static void deveEntenderLancesEmOrdemCrescente() {
         // 1. Cenarios
         Usuario joao = new Usuario("João");
         Usuario jose = new Usuario("José");
