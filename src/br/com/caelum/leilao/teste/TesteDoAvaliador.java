@@ -6,6 +6,7 @@ import br.com.caelum.leilao.dominio.Leilao;
 import br.com.caelum.leilao.dominio.Avaliador;
 
 import static org.junit.Assert.assertEquals;
+import org.junit.Test;
 
 class TesteDoAvaliador {
     
